@@ -1,2 +1,2 @@
-*.go text eol=lf
-*.md text eol=lf
+*.go text eol=8f
+*.md text eol=8f
